@@ -1,4 +1,4 @@
-### Hi there, I'm a Backend Java Developer 👋
+### Hi there, I'm a Frontend React Developer 👋
 
 ## About Me
 
