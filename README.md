@@ -18,6 +18,6 @@ I'm currently teaching myself how to use React, and MERN Stack, in Front End dev
 
 Thanks for checking out my profile! Feel free to reach out to me if you have any questions or just want to chat.
 
-🎧 Now playing: [IDOL](https://open.spotify.com/track/7ovUcF5uHTBRzUpB6ZOmvt?si=d028557637924732) 
+🎧 Now playing: [Todome No Ichigeki](https://open.spotify.com/intl-es/track/3RqT5175BrzANXK3yaafEm?si=9c4099a10501492b) 
 
-<img src="https://images.genius.com/9814c857d1226a4cae15e6b8b0b7dfae.1000x1000x1.png" alt="IDOL" width="100" height="100"> 
+<img src="https://i.scdn.co/image/ab67616d00001e0282ab0f8e9af3c915d4a0e7d5" alt="Vaundy" width="100" height="100"> 
