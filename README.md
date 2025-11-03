@@ -6,7 +6,7 @@ I'm a passionate backend developer with experience in JavaScript, Python and Web
 
 ## Hobbies
 
-In my free time, I love to watch anime (Monogatari Series and Gintama is PEAK) and my favorite series are Breaking Bad, Better Call Saul, Arcane and The Sopranos. I also enjoy reading manga and I'm currently working on becoming a mangaka myself.
+In my free time, I love to watch anime (Monogatari Series and Gintama is PEAK) and my favorite series are Breaking Bad, Better Call Saul, Arcane and The Sopranos. I also enjoy reading manga and I'm currently working on becoming a writter myself.
 
 ## Current Project
 
